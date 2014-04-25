@@ -29,5 +29,6 @@
     "shasum": "5c01c04c8475b1e4d9d909a0c90b5255db454b5e"
   },
   "_from": "md5-file@",
-  "_resolved": "https://registry.npmjs.org/md5-file/-/md5-file-1.0.0.tgz"
+  "_resolved": "https://registry.npmjs.org/md5-file/-/md5-file-1.0.0.tgz",
+  "private": true
 }
