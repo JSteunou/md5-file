@@ -1,0 +1,33 @@
+{
+  "name": "md5-file",
+  "main": "index.js",
+  "version": "1.0.0",
+  "description": "Return an md5sum of a given file.",
+  "keywords": [
+    "md5sum",
+    "checksum"
+  ],
+  "homepage": "https://github.com/roryrjb/md5-file",
+  "author": {
+    "name": "Rory Bradford",
+    "email": "roryrjb@gmail.com",
+    "url": "www.roryrjb.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/roryrjb/md5-file.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "http://github.com/roryrjb/md5-file/issues",
+    "email": "roryrjb@gmail.com"
+  },
+  "readme": "# md5-file\n\n### Overview\n\nSimply return an md5 sum of a given file.\n\n### Installation\n\n```\n$ npm install md5-file\n```\n\n### API\n\n```javascript\nvar md5 = require('md5-file');\n\nmd5('a_file'); // '18e904aae79b5642ed7975c0a0074936'\n```\n\n### License\n\n```\nThe MIT License (MIT)\n\nCopyright (c) 2014 Rory J. Bradford.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.\n```",
+  "readmeFilename": "README.md",
+  "_id": "md5-file@1.0.0",
+  "dist": {
+    "shasum": "5c01c04c8475b1e4d9d909a0c90b5255db454b5e"
+  },
+  "_from": "md5-file@",
+  "_resolved": "https://registry.npmjs.org/md5-file/-/md5-file-1.0.0.tgz"
+}
